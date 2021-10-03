@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ring-bell-variable",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
