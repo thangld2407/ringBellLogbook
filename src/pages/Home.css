@@ -1,0 +1,10 @@
+ReactAudioPlayer {
+    width: 120px;
+}
+.input-wrapper {
+    justify-content: space-around !important;
+}
+.react-audio {
+    display: flex;
+    flex-direction: column;
+}
